@@ -1,0 +1,10 @@
+{
+   "name": "QuEasy",
+   "manifest_version": 2,
+   "version": "1.0",
+   "description": "Makes queuing spotify songs easy",
+   "browser_action": {
+      "default_popup": "popup.html"
+   }
+}
+
